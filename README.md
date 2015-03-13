@@ -31,7 +31,7 @@ The parent-children relationship is encoded in the segment labels.  if
 
 The example directory contains the hierarchy image of vismale and tooth as used in the paper.
 
-Ths softwar
+This software is made available for research and non-commercial use only.
 
 ### Citation
 
